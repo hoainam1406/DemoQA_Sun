@@ -7,9 +7,7 @@
     <groupId>org.example</groupId>
     <artifactId>DemoQA_project1</artifactId>
     <version>1.0-SNAPSHOT</version>
-
     <packaging>jar</packaging>
-
     <name>javaautomationcidemo</name>
     <url>http://maven.apache.org</url>
 
